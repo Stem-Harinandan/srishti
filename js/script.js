@@ -1379,7 +1379,7 @@ console.log(`
       dy: 0.008,
     },
     {
-      text: "VORTEX",
+      text: "PHOTOGRAPHY",
       px: 0.76,
       py: 0.07,
       fs: 14,
@@ -1506,7 +1506,7 @@ console.log(`
       dy: -0.006,
     },
     {
-      text: "STORM",
+      text: "RAVE",
       px: 0.46,
       py: 0.73,
       fs: 18,
@@ -1544,7 +1544,7 @@ console.log(`
       dy: -0.005,
     },
     {
-      text: "COSMOS",
+      text: "MUSIC",
       px: 0.44,
       py: 0.88,
       fs: 17,
