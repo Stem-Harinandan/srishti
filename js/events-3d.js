@@ -6,19 +6,19 @@
   "use strict";
 
   const EVENTS = [
-    { id: 1, file: "01-cini-opsis.jpg", title: "Aude Sapere", desc: "Audentes Fortuna Adiuvat" },
+    { id: 1, file: "Aude Sapere.jpg", title: "Aude Sapere", desc: "Audentes Fortuna Adiuvat" },
     { id: 2, file: "02-euphony.jpg", title: "Euphony", desc: "Echoes of Infinity" },
     { id: 3, file: "03-baker-street.jpg", title: "221B Baker Street", desc: "La cuisine du Mystère" },
     { id: 4, file: "04-facere.jpg", title: "Facere", desc: "Create. Conquer. Captivate." },
     { id: 5, file: "05-chroma-clash.jpg", title: "Pel-droed", desc: "Rule the Pitch. Claim the Crown." },
-    { id: 6, file: "06-vortex.jpg", title: "Frost", desc: "Where art stirs the soul beyond words" },
+    { id: 6, file: "frost.jpg", title: "Frost", desc: "Where art stirs the soul beyond words" },
     { id: 7, file: "07-cypher.jpg", title: "Cypher", desc: "Where the Flaw becomes the Flow" },
-    { id: 8, file: "08-conflictwa.jpg", title: "Confictura", desc: "The Odyssey of Tales, the Rhapsody of Theatre" },
+    { id: 8, file: "confictura.jpg", title: "Confictura", desc: "The Odyssey of Tales, the Rhapsody of Theatre" },
     { id: 9, file: "09-cine-opsis.jpg", title: "Cine-Opsis", desc: "Make every Frame enduring" },
     { id: 10, file: "10-retrica.jpg", title: "Retrica", desc: "Where the lens meet the story" },
   ];
 
-  const POSTER_BASES = ["assets/posters"];
+  const POSTER_BASES = ["public/posters"];
   const MOBILE_BP = 768;
   const DRAG_SENS = 0.42;
   const FRICTION = 0.9;
